@@ -1,4 +1,4 @@
-#Named Entity Recognition with keras and keras-tuner
+# Named Entity Recognition with keras and keras-tuner
 
 A Named Entity is a unit, usually a noun phrase, which possesses a singular existence in the physical world. Named entities are typically noun phrases that contain the names of persons, organizations and locations. Named Entity Recognition has evolved as a prominent field of study in Natural Language Processing that is used to extract relevant information from a given dataset or corpus.
 
